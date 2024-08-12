@@ -5,6 +5,15 @@
 
 # Você está enchendo uma piscina e tem duas mangueiras. A mangueira verde enche em 1,5 horas e a mangueira azul em 1,2 horas. Você deseja acelerar o processo usando as duas mangueiras. Quanto tempo levará usando as duas mangueiras, em minutos?
 
+time_green = 1.5
+time_blue = 1.2
+
+time_green_min = time_green * 60
+time_blue_min = time_blue * 60
+
+print ('Levará', int(time_green_min + time_blue_min), 'minutos usando as duas mangueiras')
+
+
 # Por fim, preveja qual vai ser o valor da variável time, escrevendo a resposta como comentário
 
 # Adicione seu comentário aqui

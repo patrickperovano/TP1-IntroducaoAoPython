@@ -5,3 +5,7 @@
 
 # Escreva seu código aqui
 
+numero1 = float(input ("Digite o primeiro número: "))
+numero2 = float(input ("Digite o segundo número: "))
+avg = (numero1 + numero2) / 2
+print ("A média dos dois números é igual a:", avg)

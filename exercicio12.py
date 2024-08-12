@@ -12,3 +12,10 @@
 # h = altura
 
 # Escreva seu código aqui
+
+base = float(input ("Informe o tamanho da base: "))
+altura = float(input ("Agora, informe a altura: "))
+
+area = (base * altura) / 2
+
+print ("A área do triangulo é no tamanho de ", area)

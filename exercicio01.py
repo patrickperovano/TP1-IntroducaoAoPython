@@ -5,30 +5,32 @@
 print("Hello World!")
 
 # Minha previsão, adicione sua previsão como comentário
-# Remova esse comentário e escreva sua previsão
+# O código irá gerar a frase Hello World! no console.
 
 # Tarefa - Investigar
 # Use comentários para responder às perguntas de investigação no código de exemplo.
 
 # Qual parte do código de exemplo é a instrução de saída?
 
-# Responda:
+# Responda: Hello World
 
 # Qual parte do código de exemplo é a string?
 
-# Responda:
+# Responda: Hello World
 
 # Qual seria a saída do código print("I love Computing")?
 
-# Responda:
+# Responda: I love Computing
+#print("I love Computing")
 
 # O que aconteceria se o código print("I love Comping") fosse executado?
+#print("I love Comping")
 
-# Responda:
+# Responda: I love Comping
 
 # O que aconteceria se o código print("I love Computing" fosse executado?
-
-# Responda:
+#("I love Computing"
+# Responda: Daria erro pois a sintaxe nao foi fechada com o ).
 
 
 

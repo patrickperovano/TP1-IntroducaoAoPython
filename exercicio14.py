@@ -14,3 +14,12 @@
 # h = altura
 
 # Escreva seu código aqui#
+
+
+comprimento = float(input ("Informe o comprimento da base: "))
+largura = float(input ("Informe a largura: "))
+altura = float(input ("Agora, informe a altura: "))
+
+volume = comprimento * largura * altura
+
+print ("A volume do paralelepípedo é no tamanho de ", volume)

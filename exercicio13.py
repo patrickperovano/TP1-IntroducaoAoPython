@@ -12,3 +12,11 @@
 # l = largura
 
 # Escreva seu código aqui
+
+
+comprimento = float(input ("Informe o comprimento da base: "))
+largura = float(input ("Agora, informe a largura: "))
+
+area = comprimento * largura
+
+print ("A área do retângulo é no tamanho de ", area)
